@@ -9,3 +9,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.myCard{
+    max-width: 25rem;
+}
+.myContainer{
+    background-color: rgb(76, 75, 75);
+}
